@@ -42,6 +42,7 @@ group :development, :test do
 end
 
 gem 'bootstrap', '~> 4.3.1'
+gem 'mini_racer'
 
 group :development do
   # Access an interactive console on exception pages or by calling 'console' anywhere in the code.

@@ -43,6 +43,7 @@ end
 
 gem 'bootstrap', '~> 4.3.1'
 gem 'mini_racer'
+gem 'kaminari'
 
 group :development do
   # Access an interactive console on exception pages or by calling 'console' anywhere in the code.
